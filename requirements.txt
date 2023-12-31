@@ -4,3 +4,5 @@ datetime
 numpy
 opencv-python-headless
 face_recognition
+cmake
+dlib-19.22.99-cp310-cp310-win_amd64.whl
